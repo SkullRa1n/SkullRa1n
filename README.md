@@ -1,5 +1,5 @@
 ## Bem vindo a casa da caveira 👋
-
+#F
 - 🔭 Estou trabalhando atualmente com Discord bots, Self bots e Web Dev.
 - 🌱 Eu estou aprendendo JavaScript, Java, Python e HTML.
 - 😄 Como nos chamar: SkullRainers.
